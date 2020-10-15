@@ -12,9 +12,8 @@ likely not work for you dear reader.
 # Usage
 
 1. git clone
-2. remove .git directory and README
-3. Rename the folder
-4. sh prep_env.sh -> This will create a new virtual env and install everything
-5. Delete `prep_env.sh`
-6. Test nvim with `test.py` and delete once everything is working
+2. Rename the folder
+3. sh prep_env.sh -> This will create a new virtual env and install everything
+4. Test nvim with `test.py` and delete once everything is working
+5. Remove .git directory, not done in script to avoid unfortunate accidents
 

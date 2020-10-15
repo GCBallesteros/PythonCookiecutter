@@ -14,4 +14,5 @@ cd pyls-flake8
 pip install .
 cd ..
 rm -rf ./pyls-flake8/
-
+rm ./README.md
+rm ./prep_env.sh
